@@ -1,3 +1,8 @@
+# https://rithm-students-assets.s3.us-west-1.amazonaws.com/checkr/exercises/1a-react-props-pokedex/handout/index.html
+
+# https://rithm-students-assets.s3.us-west-1.amazonaws.com/checkr/exercises/1b-react-state-eightball-colors/handout/index.html
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
